@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">INF303</string>
+    <string name="sim_soyisim">Name-Nachname</string>
+    <string name="boy">Größe</string>
+    <string name="kilo">Gewicht</string>
+    <string name="dil">Sprache</string>
+    <string name="bay">Männlich</string>
+    <string name="bayan">Weiblich</string>
+    <string name="bug_n">HEUTE</string>
+    <string name="hedef_kilo">Zielgewicht</string>
+    <string name="rn_65">Bsp:65</string>
+    <string name="rn_1000">Bsp:1000</string>
+    <string name="rn_180">Bsp:180</string>
+    <string name="rn_3">Bsp:3</string>
+    <string name="su">WASSER</string>
+    <string name="uyku">SCHLAF</string>
+    <string name="kalori">KALORIE</string>
+    <string name="anasayfa">STARTSEITE</string>
+    <string name="sifre">Passwort</string>
+    <string name="sifre_tekrar">Passwort erneut</string>
+    <string name="giri_i_in_nce_kay_t">Registrieren Sie sich zuerst, um sich anzumelden</string>
+    <string name="kayit">REGISTRIEREN</string>
+    <string name="g_r">ANMELDEN</string>
+    <string name="_10000">10000/</string>
+    <string name="_24">24/</string>
+    <string name="_5l">5L/</string>
+    <string name="rn_7">Bsp:7</string>
+    <string name="yemek_ara">LEBENSMITTEL SUCHEN</string>
+    <string name="Toast_giris">Felder sind leer</string>
+    <string name="Toast_giris_2">Erfolgreiche Registrierung</string>
+    <string name="Toast_giris_3">Dieser Benutzername oder Email ist bereits registriert</string>
+    <string name="Toast_giris_4">Passwort stimmt nicht überein</string>
+    <string name="Toast_giris_5">falsche Benutzername, Email oder Passwort</string>
+    <string name="Toast_profil_1">Sprache wählen...</string>
+    <string name="Toast_uyku_1">Schlafzeit hinzugefügt</string>
+    <string name="Toast_su_1">Du solltest mehr Wasser trinken</string>
+    <string name="Toast_su_2">Sie haben zu viel Wasser getrunken</string>
+    <string name="Toast_su_3">Der Wasserverbrauch ist in Ordnung</string>
+    <string name="Toast_su_kayit">gespeichert</string>
+    <string name="Toast_yemek_1">Kalorien hinzugefügt</string>
+    <string name="checkbox">Kontrollkästchen</string>
+    <string name="yemek_giriniz">Lebensmittel eingeben</string>
+    <string name="yemekler">Lebensmittel</string>
+    <string name="yemek_ekle">HINZUFUGEN</string>
+    <string name="malzemeler">ZUTATEN</string>
+    <string name="kaydet">SPEICHERN</string>
+    <string name="invalid_password">ungültiges Passwort</string>
+    <string name="invalid_username">ungültiger Benutzername</string>
+    <string name="login_failed">Anmeldung fehlgeschlagen</string>
+    <string name="kullanici_adi">Mail/Benutzername</string>
+
+
+
+    <string-array name="title">
+        <item>Brownie</item>
+        <item>Selleriesaft</item>
+        <item>Johannisbrotkuchen</item>
+        <item>Kısır mit Blumenkohl</item>
+        <item>Pizza</item>
+        <item>Brokkoli mit Joghurt</item>
+        <item>Ezogelinsuppe</item>
+        <item>İmam Bayıldı</item>
+        <item>Ali Nazik</item>
+        <item>Mercimeksuppe</item>
+        <item>Fettverbrennende Weißkohlsuppe</item>
+        <item>Orangensellerie</item>
+        <item>Portulak Salat</item>
+        <item>Pasta mit Spinat-Bechamelsauce</item>
+        <item>Walnuss Huhn in Zucchini</item>
+        <item>Brokkoli-Kofte</item>
+        <item>Apfelkuchen</item>
+        <item>Nierenbohnen mit Olivenöl</item>
+        <item>Karotten-Walnuss-Zimt-Kuchen</item>
+        <item>Cheesecake</item>
+        <item>Mercimeksuppe mit Joghurt</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>3 Eier\n
+             1 Tasse Zucker\n
+             ½ Tasse Mehl\n
+             200 g Butter\n
+             250 gr dunkle Schokolade\n
+             1 Packung Vanille\n\n
+              VORBEREITUNG\n\n
+         Wir brechen 3 Eier in die Schüssel und mischen die Eier sehr wenig.
+         Dann fügen wir langsam ein Glas Zucker hinzu und schlagen es mit einem Mixer 10 Minuten lang.
+         Wir schmelzen 200 g Butter auf dem Herd und werfen unsere dunklen Pralinen hinein.
+         Wir gießen die geschmolzene Schokolade und Butter langsam in unsere Schüssel und mischen sie mit Hilfe eines Spatels.
+         Wir müssen langsam sein, weil wir nicht wollen, dass unsere Eier gekocht werden.
+         Dann fügen wir ein halbes Glas Mehl und eine Packung Vanille hinzu.
+         Wir mischen es von außen nach innen. Und jetzt gießen wir fertige Borcam oder einen Behälter Ihrer Wahl ein und backen 25 Minuten bei 180 Grad.
+         Guten Appetit.</item>
+        <item>2-3 Selleriestangen
+        3 Gläser Trinkwasser\n\n
+        VORBEREITUNG\n\n
+        Wir waschen die Selleriestangen gut
+        und wir nehmen alle Materialien auf den Mixer und ziehen sie.
+        Wir filtern die wässrige Mischung, die wir erhalten haben, mit Hilfe eines sauberen Käsetuchs, eines Siebs oder einer französischen Presse.</item>
+        <item>3 Eier\n
+        1 Tasse Johannisbrotmehl \n
+        ½ Glas Milch \n
+        ½ Tasse Pflanzenöl \n
+        1 Glas Mehl \n
+        1 Teelöffel Vanilleextrakt oder 1 Packung Vanillin \n
+        1 Päckchen Backpulver \n\n
+        WIE MAN ZIEGENMehl ZU HAUSE HERSTELLT? \n\n
+        Zuerst waschen wir unsere Johannisbrotbäume gut und legen sie über Nacht in warmes Wasser.
+        Danach wird unser Johannisbrotbaum, den wir aus dem Wasser nehmen, zu unserer Erweichung.
+        Mit Hilfe eines Messers trennen wir die Samen.
+        Wir passieren es durch das letzte Rondo und unser Johannisbrotmehl ist jetzt fertig.</item>
+        <item>600 gr Blumenkohl (ich nehme die Blütenteile und schieße im Rondo) \n
+         5-6 Esslöffel Olivenöl \n
+         1 große Zwiebel \n
+         1 Esslöffel Tomatenmark
+         1 Esslöffel Pfefferpaste (optional) \n
+         1 Capia Pfeffer Paste \n
+         1 Capia Pfeffer \n
+         2-3 grüne Paprikaschoten
+         1 Knoblauchzehe \n
+         5-6 Frühlingszwiebelzweige \n
+         Weinbergpetersilie \n
+         7-8 Kirschtomaten
+         8-10 eingelegte Essiggurken
+         1 Handvoll Walnüsse
+         Optionales Salz, schwarzer Pfeffer, Sumach, Kreuzkümmel, Olivenöl, Granatapfelsirup</item>
+        <item>TEIG\n\n
+         500 g Mehl\n
+         10 g Hefe\n
+         380 g Wasser\n
+         15 g Salz \n
+         60ml Olivenöl \n
+         10 g Zucker \n\n
+         FÜR OBEN \n\n
+         200ml Tomatenpüree \n
+         100 gr Mozzarella oder optionaler Cheddar\n
+         Basil \n
+         Olivenöl \n
+         Auf Wunsch Zucchini, Tomate, Käse, Auberginen, Wurst, Mais und mehr .. \n
+         Nachdem wir den Teig auf das Tablett gelegt haben, fetten wir den Deckel mit etwas Olivenöl ein. Wir verteilen unsere Tomatensauce gleichmäßig darauf.
+         Wir werfen es in den Ofen und kochen 10 Minuten lang. Nach dem Entfernen fetten wir die Oberseite ein wenig mit Olivenöl ein. Und das letzte was wir wollen
+         Wir geben die Zutaten so oft wir wollen und backen sie 15 Minuten lang bei der höchsten Temperatur des Ofens.</item>
+        <item>1 mittlerer Brokkoli \n
+         2 Knoblauchzehen \n
+         Optionaler halber Zitronensaft \n
+         SAUCE \n
+         Olivenöl \n
+         Chili Pfeffer \n\n
+         VORBEREITUNG \n\n
+         Lassen Sie uns die Brokkoliblüten so trennen, dass sie weder zu groß noch zu klein sind.
+         Lassen Sie uns Wasser in einen Topf geben und einen Dampfgarer oder ein geeignetes Sieb darauf stellen.
+         Nehmen wir den Brokkoli, den wir sortiert und in den Dampfgarer gewaschen haben, schließen wir den Deckel und lassen ihn kontrolliert kochen.
+         Lassen Sie es uns oft überprüfen, während der Brokkoli kocht. Wenn der Brokkoli weich ist, nehmen wir ihn sofort vom Herd, lassen das Wasser mit einem Sieb abtropfen, legen ihn auf einen Servierteller und lassen ihn abkühlen.
+         Während der Brokkoli abkühlt, bereiten wir die Joghurtsauce zu. Nehmen wir den Joghurt in eine Schüssel und fügen den geriebenen Knoblauch und genügend Salz hinzu.
+         Zum Schluss gießen wir den Joghurt und das Olivenöl über den Brokkoli, den wir auf dem Servierteller nehmen.</item>
+        <item>1 Tasse rote Linsen \n
+        1 Tasse türkischer Kaffee Bulgur \n
+        Eine halbe türkische Kaffeetasse Reis \n
+        1 mittlere Zwiebel \n
+        1 Esslöffel Mehl \n
+        2 Esslöffel Tomatenmark \n
+        2 Esslöffel Butter \n
+        3 Esslöffel Öl \n
+        2 Knoblauchzehen \n
+        Minze, roter Pfeffer, schwarzer Pfeffer, Salz \n\n
+        VORBEREITUNG \n\n
+        Butter und 1 Esslöffel Öl in die Pfanne geben und erhitzen.
+        Zwiebel und Knoblauch werden fein gehackt und in einem Topf geröstet.
+         Fügen Sie gewaschene und abgetropfte rote Linsen, Reis und Bulgur hinzu und braten Sie.
+        1 Liter Wasser hinzufügen, den Topf abdecken und kochen lassen. Wenn die Hülsenfrüchte weicher werden, wird der Herd ausgeschaltet.
+        2 Esslöffel Öl werden an einem separaten Ort erhitzt. 1 Esslöffel Mehl wird geröstet. 2 Esslöffel Tomatenmark werden hinzugefügt.
+        Nachdem die Tomatenmark geröstet ist, wird sie durch Zugabe von 1 Tasse Wasser gekocht.
+        Die durch Zugabe von Minze, rotem Pfeffer und schwarzem Pfeffer zubereitete Sauce wird vom Herd genommen und der Suppe hinzugefügt.
+        Salz hinzufügen und 1-2 Minuten kochen lassen. Unsere Ezogelin-Suppe ist servierfertig. Guten Appetit.</item>
+        <item>ZUM BRATEN \n
+         4 Auberginen - klein
+         Olivenöl \n\n
+         FÜR INNENMÖRTEL \n\n
+         2 - 3 Esslöffel Olivenöl \n
+         2 mittelgroße Zwiebeln \n
+         12 Knoblauchzehen \n
+         3 lange grüne Paprikaschoten
+         3 Prisen Salz \n
+         3 Prisen schwarzer Pfeffer \n
+         3 Tomaten \n
+         ½ Bund Petersilie \n
+        1 voller Teelöffel Kristallzucker \n\n
+         FÜR OBEN \n\n
+         3 - 4 Esslöffel Olivenöl \n
+         5 Esslöffel Wasser \n</item>
+        <item>3-4 mittlere Auberginen \n
+         1 Glas Joghurt \n
+         2 Knoblauchzehen \n
+         Salz, schwarzer Pfeffer \n
+         250 g mittelfettes Rinderhackfleisch \n
+         1 Zwiebel, Tomate, grüner Pfeffer \n
+         1 Teelöffel Pfefferpaste\n
+         Olivenöl\n</item>
+        <item>1 Tasse rote Linsen \n
+         1 Zwiebel \n
+         1 Karotte \n
+         einen halben Esslöffel Pfeffer oder Tomatenmark\n
+         Salz, schwarzer Pfeffer, Kreuzkümmel\n
+         1 Liter Wasser\n
+         2 Esslöffel Öl\n</item>
+        <item>4-5 Zwiebeln \n
+         3 Knoblauchzehen \n
+         Halbweißkohl \n
+         2-3 Capia Paprika \n
+         1 Esslöffel Olivenöl \n
+         Kreuzkümmel, schwarzer Pfeffer, Kurkuma \n
+         Ein halbes Teeglas Linsen \n
+         1 Esslöffel Pfefferpaste \n
+         1 Bund Petersilie \n\n
+         ZUBEREITUNG \n\n
+         Zwiebeln werden gewürfelt. Knoblauch wird mit einem Messer leicht zerdrückt. Kohl und Capia-Paprika werden gehackt. Das Material wird leicht mit 1 Teelöffel Olivenöl sautiert.
+         Fügen Sie Kreuzkümmel, schwarzen Pfeffer, Kurkuma, ein halbes Teeglas grüne Linsen, 1 Esslöffel Pfefferpaste, 1 Bund Petersilie und 2-3 Gläser Wasser hinzu und kochen Sie, bis das Gemüse weich ist.
+         Wenn Sie möchten, kann es mit Hilfe eines Mixers püriert oder als Getreide getrunken werden. \n
+         von Dilara KOÇAK Rezept.</item>
+        <item>4 mittlerer / großer Sellerie\n
+        1 Glas Orangensaft\n
+        1 Orange \n
+        Die Schale von 1 Orange (gründlich von dem weißhäutigen Teil gereinigt) \n
+        3-4 Zitronen\n
+        1 Esslöffel Kristallzucker \n
+        1 Teelöffel Mehl \n
+        1 große Zwiebel \n
+        1 Teeglas Olivenöl \n
+        1 kleine Tasse Jasminreis (ca. 125 - 150 ml) \n
+        1 Selleriestiel\n
+        Grüne Teile von 4 frischen Zwiebeln \n
+        Nahe an 1 Bund Dill \n
+        1 Prise Petersilie \n\n
+        ZUBEREITUNG \n\n
+        Wir geben Wasser in eine tiefe Schüssel und drücken 1 Zitrone hinein. Wir schneiden die oberen und unteren Spitzen des Selleries ab, schälen sie ab und schneiden sie horizontal in der Mitte.
+        Wir reiben den geschnittenen Sellerie mit Zitrone in Zitronenwasser und halten ihn in Wasser.
+        Mit einem kleinen Löffel graben wir ein wenig in den Sellerie.
+        Wir geben 2-3 Finger Wasser in einen horizontal breiten Topf, ordnen den Sellerie darin an, fügen 1 Prise Petersilie hinzu und kochen 15 Minuten lang.
+        Wir kochen den Sellerie so, dass er seine Vitalität verliert, aber nicht vollständig wie Schlamm erweicht. Nehmen Sie ihn aus dem Wasser und halten Sie ihn auf der Seite. Wir bereiten die Füllung vor.
+        Füllen Sie den Reis mit einem Löffel in den Sellerie.
+        Ordnen Sie den Sellerie in einer Pfanne mit einem orangefarbenen Klick an, 1 Orange mit seiner Schale, zuerst vertikal in der Mitte und dann in beiden Teilen.
+        Schneiden Sie es in 4 Scheiben und legen Sie es in die Pfanne neben dem Sellerie.
+        Schließen Sie den Deckel des Topfes und klicken Sie 10 Minuten lang auf schwache Hitze.
+        Nach 10 Minuten nehmen wir es auf den Servierteller, gießen das Wasser auf den Boden der Pfanne, dekorieren es mit weicher Orange und frischem Dill im Topf und servieren es warm oder kalt.</item>
+        <item>2 Tassen Portulak (1 Bund) \n
+         1 Schüssel Joghurt \n
+         Salz, Olivenöl \n\n
+        ZUBEREITUNG \n\n
+         Waschen Sie den Portulak und lassen Sie das Wasser abtropfen.
+         Wir schneiden es in kleine Stücke. Wir fügen Joghurt, Olivenöl, Salz und optional Chilischoten hinzu.</item>
+        <item>3 Trauben Spinat \n
+         1 Zwiebel \n
+         1 Prise Muskatnuss
+         Salz, schwarzer Pfeffer \n
+         Bechamelsauce und Pasta \n
+         350 gr Pasta \n
+         500 ml Milch\n
+         50 g Butter \n
+         50 Gramm Vollkornmehl\n
+         2 Esslöffel Parmesan \n
+         4 Esslöffel Cheddar-Käse \n
+         2 Prise Muskatnuss\n
+         Ein \n
+         1 Esslöffel Butter \n
+         2 Esslöffel Vollkornbrotkrümel \n
+         3 Esslöffel Cheddar-Käse\n</item>
+        <item>3 mittelgroße Zucchini \n
+            Olivenöl \n
+            Salz, schwarzer Pfeffer \n\n
+            FÜLLSTOFF\n\n
+            2-3 Esslöffel Olivenöl\n
+            1 kleine Zwiebel fein gehackt\n 2 grüne Paprika\n 1 Capia Pfeffer \n 4 Hähnchenschenkel ohne Knochen \n Salz, schwarzer Pfeffer, Chili-Pfeffer \n FÜR ÜBER 1 Handvoll Walnüsse\n
+            Geriebener Käse</item>
+        <item>200 gr gekochter Brokkoli\n
+         1 mittelgekochte Karotte \n
+         2 Eier \n
+         6-7 Esslöffel Hafermehl\n
+         1 Esslöffel Sesam \n
+         Salz, roter Pfeffer, schwarzer Pfeffer \n
+         2 Esslöffel Olivenöl \n\n
+         SAUCE \n\n
+         2 Esslöffel Tahini \n
+         1 Teelöffel Zitronensaft \n
+         Halbe Rüben \n
+         Warmes Wasser</item>
+        <item>FÜR DOUGH\n\n 2 Eier\n 250 g Butter\n ½ Teeglas Milch\n 8 Esslöffel Milch\n 1 Packung Vanille\n 1 Packung Backpulver\n Mehl so viel wie möglich\n\n FÜR UNSEREN APFELMÖRTEL\n\n 4 rote Äpfel\n 5 Esslöffel Zucker\n Zimt\n Walnüsse so viel Sie wollen\n\n ZUBEREITUNG\n\n Zuerst waschen und schälen wir unsere Äpfel. Wir nehmen es in einen Topf und fügen 5 Esslöffel Zucker hinzu. Wir kochen, bis kein Wasser mehr auf dem Herd ist. Wenn es kein Wasser gibt, fügen wir einen Teelöffel Zimt und Walnüsse hinzu, die in einem Mörser zerkleinert sind. Es sollte etwas abkühlen :) Für unseren Teig geben wir Butter, Zucker, Ei, Milch, Backpulver, Vanille in eine Schüssel bei Raumtemperatur und mischen es vorsichtig und fügen so viel Mehl wie möglich hinzu. Wir teilen unseren Teig in zwei Hälften und stellen die Hälfte in den Gefrierschrank. Wir verteilen es überall gleich. Dann nehmen wir den Teig, den wir in den Gefrierschrank stellen, und reiben ihn darauf. Also ist es abgedeckt. Wir backen den Apfelkuchen im auf 180 Grad erhitzten Ofen. Servierfertig, guten Appetit :)</item>
+        <item>500 gr frische Kidneybohnen\n 1 Zwiebel\n 1 Karotte\n 2 Kartoffeln\n 3 Tomaten\n 1 Knoblauchzehe\n 2 Esslöffel Tomatenmark\n 3 Gläser Wasser\n 4 Esslöffel Olivenöl\n Salz, Schwarz Pfeffer\n\n ZUBEREITUNG\n\n Das Olivenöl in den Schnellkochtopf geben und nach dem Aufwärmen die Zwiebeln hinzufügen und weich machen, die Karotte hinzufügen, braten, die Kartoffeln hinzufügen und weiter braten. Fügen Sie den Knoblauch hinzu, drehen Sie ihn um und fügen Sie dann die Kidneybohnen hinzu. Fügen Sie Tomatenmark und 2 Tomaten hinzu und braten Sie, bis der Geruch von Tomatenmark herauskommt. Wasser, Zucker, Salz und Pfeffer hinzufügen, den Deckel des Druckfasses schließen und 12-15 Minuten kochen lassen. Öffnen Sie die gesamte Abdeckung und fügen Sie 1 Tomate hinzu und ruhen Sie sich aus.</item>
+        <item>4 Eier 1 Tasse Pflanzenöl 1 Tasse Zucker 1 Tasse gemahlene Walnüsse 3 mittelgroße Karotten 1,5 Tasse Mehl ½ Tasse Vollkornmehl 1 Packung Vanille 2 Packungen Backpulver 1 Teelöffel Zimt\n\n ZUBEREITUNG\n\n Zucker- und Eiercreme Wir schlagen es mit einem Mischer, bis es die Konsistenz erreicht (10 Minuten). Dann fügen wir Öl, Vanille und Zimt hinzu und schlagen weiter. Dann nehmen wir unsere gemahlenen Walnüsse und geriebenen Karotten in unsere Schüssel und mischen sie mit Hilfe eines Spatels weiter. Zum Schluss sieben wir Vollkornmehl, Mehl, Backpulver und mischen es vorsichtig mit einem Spatel. Wir legen es in unsere 23-24 cm Kuchenform. Wir backen in einem vorgeheizten 180-Grad-Ofen etwa 35-40 Minuten lang.</item>
+        <item>FÜR DIE BASIS\n\n 2 Packungen zerknitterte Kekse\n 50 g Butter\n\n FÜR CREME\n\n 600 g Labne\n 250 g Kristallzucker\n oder Honig nach gesünderer Wahl\n 2 Esslöffel Joghurt\n 3 süßes Wintermehl\n 2 Eier (muss einzeln hinzugefügt und gemischt werden)\n Die Schale von 1 Zitrone (nur gelbe Teile, wenn es weiße Teile hat, schmeckt es bitter)\n Der Saft von 1 Zitrone\n 1 Packung Vanillin\n\n FÜR DIE SAUCE\n\n Die Schale von 1-2 Zitronen (abhängig von der Größe der Zitrone und Ihrer Vorliebe für das Saure)\n Der Saft von 2 Zitronen\n 2 Tassen Wasser\n 6 Esslöffel Kristallzucker\n 2 Esslöffel Maisstärke\n Um Farbe zu geben Für die Basis von Kurkuma\n\n ZUBEREITUNG\n\n Für die Basis mischen wir 2 Päckchen Waffelkekse und 50 g geschmolzen Butter, bis sie gleichmäßig verteilt sind. Verteilen Sie den Mörtel, den wir vorbereitet haben, auf dem Boden der Klemmform und drücken Sie ihn mit einem Löffel an. 3 Stunden im Kühlschrank ruhen lassen. Wir geben alle Zutaten für Sahne in eine Schüssel und mischen sie mit Hilfe eines Mixers. Wir gießen es in eine Klemmform, die wir aus dem Kühlschrank nehmen. Wir werfen es in den Ofen und geben Wasser in eine hitzebeständige Schüssel. (1 Stunde 160 Grad) Nach dem Abkühlen gießen wir die Sauce ein und stellen sie in den Kühlschrank.</item>
+        <item> 2 Esslöffel Butter\n 1 mittelgroße Zwiebel\n 1 Knoblauchzehe\n 1 Kartoffelwürfel klein\n 1 Glas grüne Linse - gekocht\n 5 Gläser Wasser\n Salz, schwarzer Pfeffer\n 3 gehäufte Mahlzeiten Löffel Joghurt\n 4 - 5 Dillzweige</item>
+    </string-array>
+</resources>

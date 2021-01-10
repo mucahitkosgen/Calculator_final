@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <item name="editText" type="id" />
+    <item name="listView" type="id" />
+    <item name="rezeptNamesText" type="id" />
+    <item name="TarifAciklamasiText" type="id" />
+    <item name="sprache" type="id" />
+
+</resources>

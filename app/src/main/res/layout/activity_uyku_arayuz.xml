@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    tools:context=".Uyku_arayuz">
+
+    <ImageView
+        android:id="@+id/zaman_gosterge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ustlogo"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="57dp"
+        android:layout_marginLeft="57dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="59dp"
+        android:layout_marginRight="59dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ustlogo"
+        app:srcCompat="@drawable/zaman_gosterge" />
+
+    <Button
+        android:id="@+id/btn_uyku_ekle"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignStart="@+id/zaman_gosterge"
+        android:layout_alignLeft="@+id/zaman_gosterge"
+        android:layout_alignEnd="@+id/zaman_gosterge"
+        android:layout_alignRight="@+id/zaman_gosterge"
+        android:layout_alignBottom="@+id/zaman_gosterge"
+        android:layout_marginStart="112dp"
+        android:layout_marginLeft="112dp"
+        android:layout_marginTop="36dp"
+        android:layout_marginEnd="112dp"
+        android:layout_marginRight="112dp"
+        android:background="@drawable/art"
+        android:clickable="true"
+        app:backgroundTint="#FFFF"
+        app:backgroundTintMode="multiply"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/zaman_gosterge" />
+
+    <TextView
+        android:id="@+id/saat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/zaman_gosterge"
+        android:layout_alignRight="@+id/zaman_gosterge"
+        android:layout_alignBottom="@+id/zaman_gosterge"
+        android:layout_marginTop="40dp"
+        android:text="00 :"
+        android:textColor="#FFF"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toStartOf="@+id/dakika"
+        app:layout_constraintStart_toStartOf="@+id/zaman_gosterge"
+        app:layout_constraintTop_toTopOf="@+id/zaman_gosterge" />
+
+    <TextView
+        android:id="@+id/dakika"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/zaman_gosterge"
+        android:layout_alignRight="@+id/zaman_gosterge"
+        android:layout_alignBottom="@+id/zaman_gosterge"
+        android:layout_marginTop="40dp"
+        android:text="00 :"
+        android:textColor="#FFF"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="@+id/zaman_gosterge"
+        app:layout_constraintHorizontal_bias="0.529"
+        app:layout_constraintStart_toStartOf="@+id/zaman_gosterge"
+        app:layout_constraintTop_toTopOf="@+id/zaman_gosterge" />
+
+    <ImageView
+        android:id="@+id/ustlogo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginBottom="364dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/usticon" />
+
+    <TextView
+        android:id="@+id/saniye"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/zaman_gosterge"
+        android:layout_alignRight="@+id/zaman_gosterge"
+        android:layout_alignBottom="@+id/zaman_gosterge"
+        android:layout_marginTop="40dp"
+        android:text="00"
+        android:textColor="#FFF"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="@+id/zaman_gosterge"
+        app:layout_constraintHorizontal_bias="0.505"
+        app:layout_constraintStart_toEndOf="@+id/dakika"
+        app:layout_constraintTop_toTopOf="@+id/zaman_gosterge" />
+
+    <ImageView
+        android:id="@+id/btn_anasayfa"
+        android:layout_width="63dp"
+        android:layout_height="64.3dp"
+        android:layout_marginStart="57dp"
+        android:layout_marginLeft="57dp"
+        android:layout_marginEnd="57dp"
+        android:layout_marginRight="57dp"
+        android:layout_marginBottom="20dp"
+        android:src="@drawable/anasayfaa"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

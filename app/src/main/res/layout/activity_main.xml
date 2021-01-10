@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Tarifler">
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="407dp"
+        android:layout_height="654dp"
+        android:layout_marginBottom="22dp"
+
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!--    <Button
+            android:id="@+id/anasayfa"
+            android:layout_width="78dp"
+            android:layout_height="75dp"
+            android:layout_marginStart="36dp"
+            android:layout_marginTop="22dp"
+            android:background="@drawable/anasayfa"
+            app:backgroundTint="FFF"
+            app:backgroundTintMode="multiply"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/recyclerView"
+            app:layout_constraintVertical_bias="0.95" />
+
+        <Button
+            android:id="@+id/tarifler"
+            android:layout_width="88dp"
+            android:layout_height="82dp"
+            android:layout_marginStart="163dp"
+            android:layout_marginEnd="91dp"
+            android:background="@drawable/tarifler"
+            app:backgroundTint="FFF"
+            app:backgroundTintMode="multiply"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/profilSet"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/recyclerView"
+            app:layout_constraintVertical_bias="0.0" />
+
+        <Button
+            android:id="@+id/profilSet"
+            android:layout_width="64dp"
+            android:layout_height="68dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="36dp"
+            android:background="@drawable/profil_set"
+            app:backgroundTint="FFF"
+            app:backgroundTintMode="multiply"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/recyclerView" />    !-->
+
+
+<!--    <ImageView-->
+<!--        android:id="@+id/okk"-->
+<!--        android:layout_width="30dp"-->
+<!--        android:layout_height="30dp"-->
+<!--        android:layout_marginTop="30dp"-->
+<!--        android:layout_marginEnd="350dp"-->
+<!--        android:layout_marginRight="350dp"-->
+<!--        android:src="@drawable/back"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toTopOf="parent" />-->
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

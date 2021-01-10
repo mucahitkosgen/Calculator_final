@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    tools:context=".Hedef_kalori">
+
+
+    <TextView
+        android:id="@+id/bugun"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="43dp"
+        android:text="@string/bug_n"
+        android:textColor="#FF8F00"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/anasayfa" />
+
+    <TextView
+        android:id="@+id/hedefkilo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="10dp"
+        android:text="@string/hedef_kilo"
+        android:textColor="#FF8F00"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/bugun" />
+
+    <EditText
+        android:id="@+id/kilogir"
+        android:layout_width="60dp"
+        android:layout_height="45dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="5dp"
+        android:autofillHints=""
+        android:ems="10"
+        android:hint="@string/rn_65"
+        android:inputType="number"
+        android:textSize="14sp"
+        app:layout_constraintBottom_toBottomOf="@+id/hedefkilo"
+        app:layout_constraintStart_toEndOf="@+id/hedefkilo"
+        app:layout_constraintTop_toBottomOf="@+id/bugun" />
+
+    <ImageView
+        android:id="@+id/kalori"
+        android:layout_width="411dp"
+        android:layout_height="99dp"
+        android:layout_marginTop="2dp"
+
+        android:background="@drawable/kalori"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/kilogir" />
+
+    <EditText
+        android:id="@+id/k2"
+        android:layout_width="70dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginBottom="28dp"
+        android:autofillHints=""
+        android:ems="10"
+        android:hint="@string/rn_1000"
+        android:inputType="number"
+        android:textSize="14sp"
+        app:layout_constraintBottom_toBottomOf="@+id/kalori"
+        app:layout_constraintStart_toEndOf="@+id/k1" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="270dp"
+        android:layout_height="20dp"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toBottomOf="@+id/kalori"
+        app:layout_constraintStart_toStartOf="@+id/kalori" />
+
+    <ImageView
+        android:id="@+id/su"
+        android:layout_width="414dp"
+        android:layout_height="96dp"
+
+        android:background="@drawable/su_bos"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/kalori" />
+
+    <TextView
+        android:id="@+id/su_yazi"
+        android:layout_width="60dp"
+        android:layout_height="22dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginEnd="268dp"
+        android:layout_marginRight="268dp"
+        android:text="@string/su"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+    <TextView
+        android:id="@+id/litre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="212dp"
+        android:layout_marginRight="212dp"
+        android:layout_marginBottom="40dp"
+        android:text="@string/_5l"
+        app:layout_constraintBottom_toBottomOf="@+id/su"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <EditText
+        android:id="@+id/su_litre"
+        android:layout_width="60dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginBottom="28dp"
+        android:autofillHints=""
+        android:ems="10"
+        android:hint="@string/rn_3"
+        android:inputType="number"
+        android:textSize="14sp"
+        app:layout_constraintBottom_toBottomOf="@+id/su"
+        app:layout_constraintStart_toEndOf="@+id/litre" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="270dp"
+        android:layout_height="20dp"
+        android:layout_marginTop="70dp"
+        app:layout_constraintStart_toStartOf="@+id/su"
+        app:layout_constraintTop_toTopOf="@+id/su" />
+
+    <ImageView
+        android:id="@+id/uyku"
+        android:layout_width="411dp"
+        android:layout_height="93dp"
+
+        android:background="@drawable/group_45"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/su" />
+
+    <TextView
+        android:id="@+id/uyku_yazi"
+        android:layout_width="60dp"
+        android:layout_height="22dp"
+        android:layout_marginTop="28dp"
+        android:layout_marginEnd="264dp"
+        android:layout_marginRight="264dp"
+        android:text="@string/uyku"
+        app:layout_constraintEnd_toEndOf="@+id/ok3"
+        app:layout_constraintTop_toTopOf="@+id/uyku" />
+
+    <TextView
+        android:id="@+id/k7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="212dp"
+        android:layout_marginRight="212dp"
+        android:layout_marginBottom="40dp"
+        android:text="@string/_24"
+        app:layout_constraintBottom_toBottomOf="@+id/uyku"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <EditText
+        android:id="@+id/k6"
+        android:layout_width="65dp"
+        android:layout_height="36dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginBottom="28dp"
+        android:autofillHints=""
+        android:ems="10"
+        android:hint="@string/rn_7"
+        android:inputType="number"
+        android:textSize="14sp"
+        app:layout_constraintBottom_toBottomOf="@+id/uyku"
+        app:layout_constraintStart_toEndOf="@+id/k7" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="270dp"
+        android:layout_height="20dp"
+        android:layout_marginTop="67dp"
+        app:layout_constraintStart_toStartOf="@+id/uyku"
+        app:layout_constraintTop_toTopOf="@+id/uyku" />
+
+    <TextView
+        android:id="@+id/k1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="212dp"
+        android:layout_marginRight="212dp"
+        android:layout_marginBottom="40dp"
+        android:text="@string/_10000"
+        app:layout_constraintBottom_toBottomOf="@+id/kalori"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <TextView
+        android:id="@+id/kalori_yazi"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="36dp"
+        android:layout_marginEnd="268dp"
+        android:layout_marginRight="268dp"
+        android:text="@string/kalori"
+        app:layout_constraintBottom_toTopOf="@+id/su_litre"
+        app:layout_constraintEnd_toEndOf="@+id/kalori"
+        app:layout_constraintTop_toTopOf="@+id/kalori"
+        app:layout_constraintVertical_bias="0.041" />
+
+    <ImageView
+        android:id="@+id/anasayfa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/group_46" />
+
+    <TextView
+        android:id="@+id/anasayfa_yazi"
+        android:layout_width="161dp"
+        android:layout_height="37dp"
+        android:layout_marginStart="37dp"
+        android:layout_marginLeft="37dp"
+        android:layout_marginTop="25dp"
+        android:text="@string/anasayfa"
+        android:textColor="#FFFFFF"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="@+id/anasayfa"
+        app:layout_constraintTop_toTopOf="@+id/anasayfa" />
+
+    <ImageButton
+        android:id="@+id/ok1"
+        android:layout_width="48dp"
+        android:layout_height="52dp"
+        android:layout_marginTop="28dp"
+
+        android:layout_marginEnd="4dp"
+        android:layout_marginRight="4dp"
+        app:layout_constraintEnd_toEndOf="@+id/kalori"
+        app:layout_constraintTop_toTopOf="@+id/kalori"
+        app:srcCompat="@drawable/ok" />
+
+    <ImageButton
+        android:id="@+id/ok2"
+        android:layout_width="48dp"
+        android:layout_height="52dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="4dp"
+        android:layout_marginRight="4dp"
+        app:layout_constraintEnd_toEndOf="@+id/su"
+        app:layout_constraintTop_toTopOf="@+id/su"
+        app:srcCompat="@drawable/ok" />
+
+    <ImageButton
+        android:id="@+id/ok3"
+        android:layout_width="48dp"
+        android:layout_height="52dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="4dp"
+        android:layout_marginRight="4dp"
+        app:layout_constraintEnd_toEndOf="@+id/uyku"
+        app:layout_constraintTop_toTopOf="@+id/uyku"
+        app:srcCompat="@drawable/ok" />
+
+    <ImageButton
+        android:id="@+id/home"
+        android:layout_width="64dp"
+        android:layout_height="63.4dp"
+        android:layout_marginEnd="220dp"
+        android:layout_marginRight="220dp"
+        android:layout_marginBottom="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/tarif"
+        app:srcCompat="@drawable/anasayfaa" />
+
+    <ImageButton
+        android:id="@+id/tarif"
+        android:layout_width="55dp"
+        android:layout_height="65dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginBottom="16dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/ayarlar"
+        app:layout_constraintHorizontal_bias="0.511"
+        app:layout_constraintStart_toEndOf="@+id/home"
+        app:srcCompat="@drawable/tariflerr" />
+
+    <ImageButton
+        android:id="@+id/ayarlar"
+        android:layout_width="60dp"
+        android:layout_height="62dp"
+        android:layout_marginBottom="16dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.851"
+        app:layout_constraintStart_toStartOf="parent"
+        android:background="@drawable/profil_set" />
+
+    <TextView
+        android:id="@+id/boy_yazi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="73dp"
+        android:layout_marginEnd="208dp"
+        android:layout_marginRight="208dp"
+        android:text="@string/boy"
+        android:textColor="#FF8F00"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/anasayfa" />
+
+    <EditText
+        android:id="@+id/boy"
+        android:layout_width="60dp"
+        android:layout_height="45dp"
+        android:layout_marginStart="9dp"
+        android:layout_marginLeft="9dp"
+        android:ems="10"
+        android:hint="@string/rn_180"
+        android:inputType="number"
+        android:textSize="14sp"
+        app:layout_constraintStart_toEndOf="@+id/boy_yazi"
+        app:layout_constraintTop_toTopOf="@+id/kilogir" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

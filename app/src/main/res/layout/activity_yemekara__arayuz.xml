@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Yemekara_Arayuz">
+
+    <ImageView
+        android:id="@+id/yemek_ara_arayuz_ust_logo"
+        android:layout_width="500dp"
+        android:layout_height="1250dp"
+        android:background="#FFFFFF"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.651"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/usticon" />
+
+    <ImageView
+        android:id="@+id/yemek_ara_arayuz_btn_home"
+        android:layout_width="63dp"
+        android:layout_height="64.3dp"
+        android:layout_marginStart="57dp"
+        android:layout_marginBottom="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/anasayfaa"
+        tools:ignore="RtlCompat" />
+
+    <ImageView
+        android:id="@+id/yemek_ara_arayuz_btn_tarif"
+        android:layout_width="55dp"
+        android:layout_height="65dp"
+        android:layout_marginStart="58dp"
+        android:layout_marginBottom="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/yemek_ara_arayuz_btn_home"
+        app:srcCompat="@drawable/tariflerr"
+        tools:ignore="RtlCompat" />
+
+    <ImageView
+        android:id="@+id/yemek_ara_arayuz_btn_ayarlar"
+        android:layout_width="62dp"
+        android:layout_height="67dp"
+        android:layout_marginStart="58dp"
+        android:layout_marginEnd="57dp"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/profil_set"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/yemek_ara_arayuz_btn_tarif"
+        tools:ignore="RtlCompat" />
+
+    <ImageView
+        android:id="@+id/btn_yemek_ara"
+        android:layout_width="343dp"
+        android:layout_height="76dp"
+        android:layout_marginStart="58dp"
+        android:layout_marginEnd="58dp"
+        android:layout_marginBottom="220dp"
+        app:layout_constraintBottom_toBottomOf="@+id/yemek_ara_arayuz_btn_tarif"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/btn_giris" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="130dp"
+        android:layout_marginLeft="130dp"
+        android:layout_marginBottom="172dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.521"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/yemek_sec_catal_bicak_icon" />
+
+    <TextView
+        android:id="@+id/kalori_yazisi"
+        android:layout_width="110dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="46dp"
+        android:layout_marginLeft="46dp"
+        android:layout_marginBottom="178dp"
+        android:textColor="#A8A8A7"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/img_kcal"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_marginBottom="177dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.577"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/kcal_yazisi" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="248dp"
+        android:layout_height="33dp"
+        android:text="@string/yemek_ara"
+        android:textColor="#FFF"
+        android:textSize="16dp"
+        app:layout_constraintBottom_toBottomOf="@+id/btn_yemek_ara"
+        app:layout_constraintEnd_toEndOf="@+id/btn_yemek_ara"
+        app:layout_constraintHorizontal_bias="0.621"
+        app:layout_constraintStart_toStartOf="@+id/btn_yemek_ara"
+        app:layout_constraintTop_toTopOf="@+id/btn_yemek_ara"
+        app:layout_constraintVertical_bias="0.534" />
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="53dp"
+        android:layout_height="44dp"
+        android:layout_marginBottom="20dp"
+        app:layout_constraintBottom_toBottomOf="@+id/btn_yemek_ara"
+        app:layout_constraintEnd_toEndOf="@+id/btn_yemek_ara"
+        app:layout_constraintHorizontal_bias="0.875"
+        app:layout_constraintStart_toStartOf="@+id/btn_yemek_ara"
+        app:srcCompat="@drawable/yemek_logo" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

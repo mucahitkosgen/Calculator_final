@@ -1,0 +1,269 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">INF303</string>
+
+    <string name="join_e_mail" translatable="false">Join e-mail</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="signup" translatable="false">SIGNUP</string>
+    <string name="login" translatable="false">LOGIN</string>
+    <string name="listing" translatable="false">LISTING</string>
+    <string name="kullanicilist" translatable="false">kullanicilist</string>
+    <string name="listele" translatable="false">listele</string>
+    <string name="liste" translatable="false">liste</string>
+    <!--        <string name="kaydet" translatable="false">kaydet</string>-->
+    <string name="kaydett" translatable="false">KAYDET</string>
+    <string name="listelee" translatable="false">LISTELE</string>
+    <string name="name" translatable="false">name</string>
+
+
+    <string name="g_ster" translatable="false">GÖSTER</string>
+    <string name="Join_Name" translatable="false">Name</string>
+    <string name="namen" translatable="false">Name</string>
+    <string name="join_surname" translatable="false">Join_surname</string>
+    <string name="surname" translatable="false">Name</string>
+    <string name="isim_gir" translatable="false">isim_gir</string>
+
+    <string name="soyad_gir" translatable="false">soyad_gir</string>
+    <string name="button" translatable="false">Button</string>
+    <string name="back" translatable="false">BACK</string>
+    <string name="delete" translatable="false">DELETE</string>
+
+    <string name="textview" translatable="false">TextView</string>
+
+
+    <string name="choose_button_f_r_gender" translatable="false">Choose Button für Gender</string>
+    <string name="radiobuttonmale" translatable="false">RadioButtonMale</string>
+    <string name="male" translatable="false">male</string>
+    <string name="chose_gender" translatable="false">Chose Gender</string>
+
+    <string name="malee" translatable="false">Malee</string>
+
+
+    <string name="isim" translatable="false">isim</string>
+
+    <string name="join" translatable="false">join</string>
+
+    <string name="join_name_surname" translatable="false">Join Name-Surname</string>
+
+    <string name="kiloo" translatable="false">kilo</string>
+
+    <string name="ayarlar" translatable="false">AYARLAR</string>
+    <string name="title_activity_main2" translatable="false">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label" translatable="false">First Fragment</string>
+    <string name="second_fragment_label" translatable="false">Second Fragment</string>
+    <string name="next" translatable="false">Next</string>
+    <string name="previous" translatable="false">Previous</string>
+
+    <string name="hello_first_fragment" translatable="false">Hello first fragment</string>
+    <string name="hello_second_fragment" translatable="false">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_profil" translatable="false">Profil</string>
+    <string name="name_surname" translatable="false">Name-Surname</string>
+
+
+    <!--        <string name="kilos">Kilo</string>-->
+    <!--        <string name="kiz" />-->
+    <!--        <string name="erkek" />-->
+
+    <!--        <string name="payla" />-->
+    <!--        <string name="ayarlarr" />-->
+    <!--        <string name="g_nder" />-->
+
+
+    <string name="title_activity_ayar" translatable="false">Ayar</string>
+    <string name="prompt_email" translatable="false">Email</string>
+    <string name="prompt_password" translatable="false">Password</string>
+    <string name="action_sign_in" translatable="false">Sign in or register</string>
+    <string name="action_sign_in_short" translatable="false">Sign in</string>
+    <string name="welcome" translatable="false">"Welcome !"</string>
+    <!--        <string name="invalid_username">Not a valid username</string>-->
+    <!--        <string name="invalid_password">Password must be >5 characters</string>-->
+    <!--        <string name="login_failed">"Login failed"</string>-->
+
+    <!--        <string name="namee">Name</string>-->
+    <!--        <string name="height">Height</string>-->
+    <!--        <string name="weight">Weight</string>-->
+    <!--        <string name="gender">Gender</string>-->
+
+    <!--        <string name="malel">Male</string>-->
+    <!--        <string name="NameSurname" />-->
+    <!--        <string name="Join_name_surname">Join_Name_Surname</string>-->
+
+    <!--        <string name="malei">Male</string>-->
+    <!--        <string name="Female" />-->
+    <!--        <string name="maleee">Male</string>-->
+    <!--        <string name="female">Female</string>-->
+    <!--        <string name="btn_display">btn_display</string>-->
+    <!--        <string name="kayitt">KAYITT</string>-->
+
+    <!--        <string name="water">WATER</string>-->
+
+    <!--        <string name="liter_eingeben">Liter eingeben</string>-->
+    <!--        <string name="geben_sie_die_literzahl_ein">Geben Sie die Literzahl ein</string>-->
+    <!--        <string name="beispiel_3l">Beispiel_3L</string>-->
+    <!--        <string name="ANMELDUNG" />-->
+
+
+    <!--        <string name="email_eingeben">Email eingeben</string>-->
+    <!--        <string name="geben_sie_ihr_geschlecht_ein">Geben Sie Ihr Geschlecht ein</string>-->
+
+    <!--        <string name="join_email">Join E-mail</string>-->
+
+
+    <!--        <string name="datensatz_anzeigen">Datensatz anzeigen</string>-->
+
+    <!--        <string name="e_mail">E-mail</string>-->
+
+    <!--        <string name="anmeldung">ANMELDUNG</string>-->
+    <!--        <string name="show">SHOW</string>-->
+
+    <!--        <string name="auswahl">AUSWAHL</string>-->
+    <!--        <string name="aufzeichnung">AUFZEICHNUNG</string>-->
+    <!--        <string name="zuruck">ZURUCK</string>-->
+    <!--        <string name="vorname_nachname">Vorname-Nachname</string>-->
+    <!--        <string name="gr_sse">Grösse</string>-->
+    <!--        <string name="gewicht">Gewicht</string>-->
+    <!--        <string name="heute">HEUTE</string>-->
+    <!--        <string name="zielgewicht">Zielgewicht</string>-->
+    <!--        <string name="zb_65">ZB:65</string>-->
+
+
+    <!--        <string name="zb_3">ZB:3</string>-->
+
+    <!--        <string name="zb_6">ZB:6</string>-->
+    <!--        <string name="zb_24">ZB/24</string>-->
+    <!--        <string name="confirm_password">Confirm Password</string>-->
+    <!--        <string name="registrieren_sie_sich_zuerst_um_sich_anzumelden">Registrieren Sie sich zuerst, um sich anzumelden</string>-->
+
+    <!--        <string name="todo" />-->
+
+
+    <!--        <string name="zb_1000">ZB:1000</string>-->
+
+
+    <string name="se" translatable="false">Seç</string>
+
+    <string name="todoo" translatable="false">TODO</string>
+
+
+    <!--          Giris sayfasi       -->
+    <string name="Toast_giris">Alanlar boş</string>
+    <string name="Toast_giris_2">Kayıt başarılı</string>
+    <string name="Toast_giris_3">Bu kullanıcı adı ya da e-posta zaten kayıtlı</string>
+    <string name="Toast_giris_4">Parola eşleşmiyor</string>
+    <string name="Toast_giris_5">Yanlış kullanıcı adı, e-posta veya şifre</string>
+    <string name="kayit">KAYIT</string>
+    <string name="sifre_tekrar">Şifre tekrar</string>
+    <string name="sifre">Şifre</string>
+    <string name="giri_i_in_nce_kay_t">Giriş için önce kayıt!</string>
+    <string name="g_r">GİRİŞ</string>
+    <string name="kullanici_adi">Mail/Kullanıcı adı</string>
+
+
+    <!--    anasayfa arayuzu -->
+    <string name="anasayfa">ANASAYFA</string>
+    <string name="rn_1000">örn:1000</string>
+    <string name="kalori">KALORİ</string>
+    <string name="bug_n">BUGÜN</string>
+    <string name="hedef_kilo">Hedef Kilo</string>
+    <string name="rn_3">örn:3</string>
+    <string name="_5l">5L/</string>
+    <string name="su">SU</string>
+    <string name="uyku">UYKU</string>
+    <string name="_24">24/</string>
+    <string name="rn_7">örn:7</string>
+    <string name="_10000">10000/</string>
+    <string name="rn_180">örn:180</string>
+    <string name="rn_65">örn:65</string>
+
+
+    <!--    Profil  arayuzu  -->
+    <string name="Toast_profil_1">Dil seçin...</string>
+    <string name="sim_soyisim">İsim-Soyisim</string>
+    <string name="boy">Boy</string>
+    <string name="kilo">Kilo</string>
+    <string name="bayan">Bayan</string>
+    <string name="bay">Bay</string>
+    <string name="dil">Dil</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="kaydet">KAYDET</string>
+
+
+    <!--    Uyku arayuzu -->
+    <string name="Toast_uyku_1">Uyku süresi eklendi</string>
+
+
+    <!--    Su ekleme arayuzu -->
+    <string name="Toast_su_1">Daha fazla su tüketmelisiniz</string>
+    <string name="Toast_su_2">Cok fazla su tükettiniz</string>
+    <string name="Toast_su_3">Su tüketimi gayet iyi durumda</string>
+    <string name="Toast_su_kayit">Kaydedildi</string>
+
+    <!--    Yemek ara arayuz -->
+    <string name="Toast_yemek_1">Kalori eklendi</string>
+    <string name="yemek_ara">YEMEK ARA</string>
+
+    <!--    Yemek sec arayuz -->
+    <string name="yemek_giriniz">Yemek giriniz</string>
+    <string name="yemekler">Yemekler</string>
+    <string name="yemek_ekle">EKLE</string>
+
+
+    <!--    Tarif arama arayuzu -->
+
+    <string name="malzemeler">MALZEMELER</string>
+    <string-array name="title">
+        <item>Brownie</item>
+        <item>Kereviz Suyu</item>
+        <item>Keçiboynuzlu Kek</item>
+        <item>Karnabaharlı Kısır</item>
+        <item>Pizza</item>
+        <item>Yoğurtlu Brokoli</item>
+        <item>Ezogelin Çorbası</item>
+        <item>Zeytinyağlı İmam Bayıldı</item>
+        <item>Ali Nazik</item>
+        <item>Mercimek Çorbası</item>
+        <item>Yağ Yakan Beyaz Lahana Çorbası</item>
+        <item>Portakallı Kereviz</item>
+        <item>Semizotu Salatası</item>
+        <item>Ispanaklı Beşamel Soslu Makarna</item>
+        <item>Kabakta Cevizli Tavuk</item>
+        <item>Brokoli Köfte</item>
+        <item>Elmalı Turta</item>
+        <item>Zeytinyağlı Barbunya</item>
+        <item>Havuçlu Cevizli Tarçınlı Kek</item>
+        <item>Cheesecake</item>
+        <item>Yoğurtlu Süzme Mercimek Çorbası</item>
+    </string-array>
+    <string-array name="description">
+        <item>3 Yumurta\n 1 Su bardağı şeker|n ½ su bardağı un\n 200 gr tereyağı\n 250 gr bitter çikolata\n 1 paket vanilya\n\n HAZIRLANIŞI\n\n 3 yumurtayı kaseye kırıyoruz ve yumurtaları çok az karıştırıyoruz. Sonrasında bir bardak şekeri yavaş yavaş ekleyerek 10 dk mikser yardımıyla çırpıyoruz. 200 gr tereyağını ocakta eritiyoruz ve bitter çikolatalarımızı içine atıyoruz. Eriyen çikolatalar ve tereyağımızı kabımızın içine yavaşça döküyoruz ve bir yandan spatula yardımıyla karıştırıyoruz. Yavaş olmalıyız çünkü yumurtalarımızın pişmesini istemiyoruz. sonrasında yarım bardak unumuzu ve bir paket vanilyamızı ekliyoruz. Dışarıdan içe karıştırıyoruz. Vee artık hazır borcam ya da istediğiniz bir kaba döküp 25 dk 180 derece de pişiriyoruz. Afiyet brownie olsun.</item>
+        <item>2-3 adet kereviz sapı\n 3 su bardağı içme suyu\n\n HAZIRLANIŞI\n\n Kereviz saplarını güzelce yıkıyoruz ve tüm malzemeleri blendera alıp çekiyoruz. Elde ettiğimiz sulu karışımı temiz bir tülbent, süzgeç veya french press yardımıyla süzüyoruz.</item>
+        <item>3 yumurta\n 1 su bardağı keçiboynuzu unu\n ½ su bardağı süt\n ½ su bardağı sıvıyağ\n 1 su bardağı un\n 1 çay kaşığı vanilya özütü ya da 1 paket vanilin\n 1 paket kabartma tozu\n\n KEÇİBOYNUZU UNU EVDE NASIL YAPILIR?\n\n İlk önce keçiboynuzlarımızı güzelce yıkıyoruz ve ılık suda bir gece bekletiyoruz. Daha sonrası sudan çıkartığımız keçiboynuzlarımız yumuşamız oluyor. Bıçak yardımıyla çekirdeklerini ayırıyoruz. En son rondodan geçiriyoruz vee keçiboynuzu unumuz artık hazır.</item>
+        <item>600 gr Karnabahar(çiçek kısımlarını alıyorum ve rondoda çekiyorum)\n 5-6 yemek kaşığı zeytinyağı\n 1 adet büyük boy soğan\n 1 yemek kaşığı domates salçası 1 yemek kaşığı biber salçası(isteğe bağlı)\n 1 adet kapya biber salçası\n 1 adet kapya biber\n 2-3 adet yeşil biber\n 1 diş sarımsak\n 5-6 dal taze soğan\n ½ bağ maydanoz\n 7-8 adet çeri domates\n 8-10 adet kornişon turşu\n 1 avuç ceviz İsteğe bağlı tuz, karabiber, sumak, kimyon, zeytinyağı, nar ekşisi</item>
+        <item>HAMUR\n\n 500 gr un\n 10 gr maya\n 380 gr su\n 15 gr tuz\n 60ml zeytinyağı\n 10 gr şeker\n ÜZERİ İÇİN\n\n 200ml domates püresi\n 100 gr mozzarella ya da isteğe bağlı kaşar\n Fesleğen\n Zeytinyağı\n Üzerine isteğinize göre kabak, domates, kaşar, patlıcan, sucuk, mısır ve daha fazlası..\n Hamuru tepsiye koyduktan sonra üstünü çok az zeytinağı ile yağlıyoruz. Domates sosumuzu üstüne eşit şekilde dağıtıyoruz. Fırına atıyoruz ve 10 dk pişiriyoruz. Çıkardıktan sonra üstünü yeniden zeytinyağı ile çok az yağlıyoruz. Ve en son istediğimiz malzemeleri istediğimiz kadar koyup fırının en yüksek sıcaklık ayarında 15dk pişiriyoruz.</item>
+        <item>1 orta boy brokoli\n 2 diş sarımsak\n İsteğe bağlı yarım limonun suyu\n SOS\n Zeytinyağı\n Pulbiber\n\n HAZIRLANIŞI\n\n Brokolileri ne çok büyük ne de çok küçük olacak şekilde çiçeklerini ayıralım. Bir tencereye su koyalım ve üzerine buhar tenceresi ya da uygun bir süzgeci yerleştirelim. Ayıklayıp yıkadığımız brokolileri buhar tenceresine alalım, kapağını kapatarak kontrollü bir şekilde pişmeye bırakalım. Brokoliler pişerken sık sık kontrol edelim. Brokoliler yumuşayınca ocaktan hemen alarak suyunu bir süzgeçle süzelim ve servis tabağına alarak soğumaya bırakalım. Brokoliler soğurken üzeri için yoğurtlu sosu hazırlayalım. Yoğurdu bir kaba alalım ve rendelediğimiz sarımsakları ve yeteri kadar tuzunu ekleyelim. Son olarak servis tabağına aldığımız brokolilerin üzerine yoğurdu ve zeytinyağını gezdirelim.</item>
+        <item>1 su bardağı kırmızı mercimek\n 1 Türk kahvesi fincanı bulgur\n Yarım Türk kahvesi fincanı pirinç\n 1 orta boy soğan\n 1 yemek kaşığı un\n 2 yemek kaşığı salça\n 2 yemek kaşığı tereyağı\n 3 yemek kaşığı sıvı yağ\n 2 diş sarımsak\n Nane, kırmızı biber, karabiber, tuz\n HAZIRLANIŞI\n Tencereye tereyağı ve 1 yemek kaşığı sıvı yağ tencereye alınarak ısıtılır. Soğan ve sarımsak küçük küçük doğranır ve tencerede kavrulur. Üzerine yıkanmış ve suyu süzülmüş olan kırmızı mercimek, pirinç ve bulgur eklenerek kavrulur. Üzerine 1lt kadar su ilave edilerek tencerenin kapağı kapatılır ve pişmeye bırakılır.Bakliyatlar yumuşayınca ocak kapatılır. Ayrı bir yerde 2 yemek kaşığı sıvı yağ ısıtılır. 1 yemek kaşığı un kavrulur. Üzerine 2 yemek kaşığı domates salçası eklenir. Salça da kavrulduktan sonra 1 su bardağı kadar su ilave edilerek kaynatılır. Nane, kırmızı biber, karabiber ilave edilerek hazırlanan sos ocaktan alınır ve çorbaya ilave edilir. Tuzu da eklenerek 1-2 dk kaynatılır.Ezogelin Çorbamız servise hazır. Afiyet olsun.</item>
+        <item>KIZARMA İÇİN\n\n 4 adet patlıcan – küçük boy\n Zeytinyağı\n\n İÇ HARCI İÇİN\n\n 2 – 3 yemek kaşığı zeytinyağı\n 2 orta boy soğan\n 12 diş sarımsak\n 3 adet sivri biber\n 3 tutam tuz\n 3 tutam karabiber\n 3 adet domates\n ½ demet maydanoz\n 1 dolu tatlı kaşığı toz şeker\n\n ÜZERİ İÇİN\n\n 3 – 4 yemek kaşığı zeytinyağı\n 5 yemek kaşığı su\n</item>
+        <item>3-4 adet orta boy patlıcan\n 1 su bardağı süzme yoğurt\n 2 diş sarımsak\n Tuz, Karabiber\n 250 g orta yağlı kıyma\n 1 Adet soğan, domate, yeşil biber\n 1 tatlı kaşığı biber salças\n Zeytinyağı</item>
+        <item>1 su bardağı kırmızı mercimek 1 adet soğan 1 adet havuç yarım yemek kaşığı biber ya da domates salçası Tuz, Karabiber, Kimyon 1 litre su 2 yemek kaşığı sıvı yağ</item>
+        <item>4-5 adet soğan\n 3 diş sarımsak\n Yarım beyaz lahana\n 2-3 kapya biber\n 1 yemek kaşığı zeytinyağı\n Kimyon, karabiber, zerdaçal\n Yarım çay bardağı mercimek\n 1 yemek kaşığı biber salçası\n 1 demet maydanoz\n\n HAZIRLANIŞI\n\n Soğanlar küp küp doğranır. Sarımsaklar bıçak yardımı ile hafifçe ezilir. Lahana ve kapya biber doğranır. Malzeme 1 tatlı kaşığı zeytinyağı ile hafifçe sotelenir. Kimyon, karabiber, zerdeçal, yarım çay bardağı yeşil mercimek, 1 yemek kaşığı biber salçası, 1 demet maydanoz ve  2-3 bardak su ilavesiyle  sebzeler yumuşayıncaya değin pişirilir. Dilerseniz blender yardımı ile püre haline gelebilir veya taneli olarak da içilebilir.\n DİLARA KOÇAK tarifidir</item>
+        <item>4 adet orta/ buyuk boy kereviz\n 1 bardak portakal suyu\n 1 adet portakal\n 1 portakalin kabuğu (beyaz zarlı kısmından iyice arındırılmış)\n 3-4 adet limon\n 1 çorba kaşığı toz şeker\n 1 tatlı kaşığı silme un\n 1 büyük boy kuru soğan\n 1 çay bardağı zeytinyağı\n 1 küçük su bardağı yasemin pirinci (125 – 150 ml civarında)\n 1 adet kereviz sapı\n 4 adet taze soğanın yeşil kısımları\n 1 demete yakın dereotu\n 1 tutam maydanoz\n\n HAZIRLANIŞI\n\n Derin bir kaba su koyuyoruz 1 limonu icine sıkıyoruz. Kerevizlerin üst ve alt tepelerini kesiyoruz, kabuklarını soyuyoruz ve yatay vaziyette ortadan 2 ye kesiyoruz, kestiğimiz kerevizleri limonlu suyun içindeki limonla ovuşturup, suda bekletiyoruz. Bir küçük kaşık ile kerevizlerin içini biraz oyuyoruz. Yatay geniş bir tencereye 2-3 parmak su koyuyoruz, kerevizleri içine dizip, 1 tutam maydanozu da içine ekleyip 15 dakika kadar pişiriyoruz, kerevizler diriliklerini kaybedecek ama tamamen çamur gibi yumuşamayacak şekilde pişirip sudan çıkarıp kenarda bekletiyoruz. İç harcını hazırlıyoruz. Pilavı bir kaşık ile kerevizlerin içine tepeleme olacak şekilde doldurun. Kerevizleri portakal tıkırdayan tencereye muntazam şekilde diziyoruz, 1 portakalı kabuğu ile beraber önce diklemesine ortadan ikiye sonra da her iki parçasından 4 er adet dilim çıkaracak şekilde kesip ve tencerenin içine kerevizlerin yanlarına yerleştiriyoruz. Tencerenin ağzını kapatıp 10 dakika kadar kısık ateşte tıkırdatın. 10 dakika sonra servis tabağına alıyoruz , tencerenin dibindeki suyu üzerlerine döküp, tencerede yumuşamış portakal ve taze dereotu ile süsleyip ılık ya da soğuk servis ediyoruz.</item>
+        <item>2 kase semizotu ( 1 bağ)\n 1 kase yoğurt\n Tuz, Zeytinyağı\n\n HAZIRLANIŞI\n\n Semizotunu yıkayarak, suyunun süzülmesini sağlayın. Küçük parçalara ayırıyoruz. Yoğurt, zeytinyağı, tuz ve isteğe bağlı pul biber ekliyoruz.</item>
+        <item>3 demet Ispanak\n 1 adet soğan\n 1 çimdik muskat\n Tuz, Karabiber\n Beşamel Sosu Ve Makarna\n 350 gr makarna\n 500 ml süt\n 50 gr tereyağı\n 50 gr tam buğday unu\n 2 yemek kaşığı parmesan peyniri\n 4 yemek kaşığı kaşar peyniri\n 2 çimdik muskat\n Üzerine\n 1 yemek kaşığı tereyağı\n 2 yemek kaşığı tam buğday ekmek kırıntısı\n 3 yemek kaşığı kaşar peyniri</item>
+        <item>3 adet orta boy kabak\n Zeytinyağı\n Tuz, Karabiber\n\n İÇ HARCI\n\n 2-3 yemek kaşığı zeytinyağı\n 1 adet küçük boy ince yemeklik doğranmış soğan\n 2 adet sivri biber\n 1 adet kapya biber\n 4 adet kemiksiz tavuk but\n Tuz, Karabiber, Pul biber\n 1 avuç ceviz\n\n ÜZERİ İÇİN\n\n Rendelenmiş kaşar</item>
+        <item>200 gr haşlanmış brokoli\n 1 adet orta boy haşlanmış havuç\n 2 yumurta\n 6-7 yemek kaşığı yulaf unu\n 1 tatlı kaşığı susam\n Tuz, kırmızı biber, karabiber\n 2 yemek kaşığı zeytinyağı\n\n SOS\n\n 2 yemek kaşığı tahin\n 1 tatlı kaşığı limon suyu\n Yarım pancar\n Ilık su</item>
+        <item>HAMUR İÇİN\n\n 2 adet yumurta\n 250 gr tereyağı\n ½ çay bardağı süt\n 8 yemek kaşığı süt\n 1 paket vanilya\n 1 paket kabartma tozu\n Alabildiği kadar un\n\n ELMA HARCIMIZ İÇİN\n\n 4 kırmızı elma\n 5 yemek kaşığı şeker\n tarçın\n İstenildiği kadar ceviz\n\n HAZIRLANIŞI\n\n İlk önce elmalarımızı yıkayıp soyuyoruz. Bir tencereye alıyoruz ve üstüne 5 yemek kaşığı şekerimizi atıyoruz. Ocakta suyu kalmayana kadar pişiriyoruz. Suyu kalmayınca silme çay kaşığı tarçın ve havanda dövülmüş cevizlerimizi ekliyoruz. Biraz soğumalı :) Hamurumuz için oda sıcaklığındaki tereyağı, şeker, yumurta, süt, kabartma tozu, vanilya bir kaba koyup hafifçe karıştıyoruz ve alabildiği kadar un ekliyoruz. Hamurumuzu ikiye bölüyoruz ve yarısını dondurucuya atıyoruz.Turtayı pişireceğimiz kabın tabanına kalan hamuruzu taban yapıyoruz ve hazırladığımız elmalı harcımızı döküyoruz. Her yere eşit dağıtıyoruz. Daha sonra dondurucuya attığımız hamurumuzu alıyoruz ve üstüne rendeliyoruz. Böylece üstü kapanmış oluyor. Elmalı turtayı 180 derece ısıtılmış fırında pişiriyoruz. Servise hazır, afiyetler olsun :)</item>
+        <item>500 gr taze barbunya\n 1 adet soğan\n 1 adet havuç\n 2 adet patates\n 3 adet domates\n 1 diş sarımsak\n 2 yemek kaşığı domates salçası\n 3 su bardağı su\n 4 yemej kaşığı zeytinyağı\n Tuz,Karabiber\n\n HAZIRLANIŞI\n\n Düdüklü tencereye zeytinyağını ekleyin ve ısınınca soğanları ekleyip yumuşatın, havucu ekleyin kavurun, patatesi ekleyin kavurmaya devam edin.Sarımsağı ekleyip çevirin ve ardından barbunyayı ekleyin. Salçayı ve 2 adet domatesi ekleyin salçanın kokusu çıkana kadar kavurun.Su, şeker, tuz ve karabiberi ekleyip, düdüklünün kapağını kapatıp 12-15 dakika pişirin.Süre bütünce kapağını açın ve 1 adet domatesi ekleyin ve dinlendirin.</item>
+        <item>4 adet yumurta 1 su bardağı sıvıyağ 1 su bardağı şeker 1 su bardağı çekilmiş ceviz 3 adet orta boy havuç 1,5 su bardağı un ½ su bardağı kepekli un 1 paket vanilya 2 paket kabartma tozu 1 çay kaşığı tarçın HAZIRLANIŞI\n Şeker ve yumurtaları krema kıvamı alana kadar mikserle çırpıyoruz(10dk) Ardından içine sıvıyağ, vanilya ve tarçını ekleyip çırpmaya devam ediyoruz. Daha sonra çekilmiş ceviz ve rendelenmiş havuçlarımızı kabımıza alıp spatula yardımıyla karıştırmaya devam ediyoruz. Son olarak kepekli un, un, kabartma tozunu elekten geçiriyoruz ve yavaşça spatula ile karıştırıyoruz. 23-24 cm lik kek kalıbımıza alıyoruz. Önceden ısıtılmıl 180 derecelik fırında yaklaşık 35-40 dk pişiriyoruz.</item>
+        <item>ALT TABAN İÇİN\n\n 2 paket burçak bisküvi\n 50 gram tereyağı\n\n KREMASI İÇİN\n\n 600 gr pınar labne\n 250 gr toz şeker\n ya da daha sağlıklı tercih olan bal\n 2 çorba kaşığı süzme yoğurt\n 3 tatlı kışığı un\n 2 adet yumurta (tek tek eklenerek karıştırılmalı)\n 1 limonun kabuğu(sadece sarı kısımları, eğer beyaz kısımları da olursa tadı acı olur)\n 1 limonun suyu\n 1 paket vanilin\n\n SOSU İÇİN\n\n 1-2 limonun kabuğu(limonun büyüklüğü ve ekşi sevme oranınıza göre)\n 2 limonun suyu\n 2 su bardağı su\n 6 yemek kaşığı toz şeker\n 2 yemek kaşığı mısır nişastası\n Renk vermesi için zerdaçal\n\n HAZIRLANIŞI\n\n Tabanı için 2 paket rondoda çekilmiş burçak bisküviyi ve 50 gr eritilmiş tereyeğını eşit dağılana kadar karıştırıyoruz. Hazırladığımız harcı kelepçeli kalıbın tabanına yayarak bir kaşık yardımıyla üzerine bastırın.Bu şekilde buzdolabında 3 saat dinlenmeye bırakın. Bir kaba kreması için olan tüm malzemeleri ekleyip mikser yardımıyla karıştırıyoruz. Buzdolabından çıkardığımız kelepçeli kalıba döküyoruz. Fırına atıyoruz fırının alt tabanına ısıya dayanaklı kaseye su koyuyoruz.(1 saat 160 derece) Soğuduktan sonra sosunu döküyoruz ve buzdolabına atıyoruz.</item>
+        <item>2 yemek kaşığı tereyağı\n 1 adet orta boy soğan - yemeklik doğranmış\n 1 diş sarımsak\n 1 adet patates - küçük küp doğranmış\n 1 su bardağı yeşil mercimek - haşlanmış\n 5 su bardağı su\n Tuz, Karabiber\n 3 tepeleme yemek kaşığı süzme yoğurt\n 4 - 5 dal dereotu</item>
+    </string-array>
+
+
+
+
+
+    <string name="login_failed">giris basarisiz</string>
+    <string name="invalid_username">gecersiz kullanici adi</string>
+    <string name="invalid_password">gecersiz sifre</string>
+
+</resources>

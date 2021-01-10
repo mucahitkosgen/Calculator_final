@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity2">
+
+    <ImageView
+        android:id="@+id/ust"
+        android:layout_width="887dp"
+        android:layout_height="594dp"
+
+        android:layout_marginBottom="290dp"
+        android:background="@drawable/login_background"
+        app:layout_constraintBottom_toBottomOf="@+id/asil"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/asil"
+        android:layout_width="325dp"
+        android:layout_height="444dp"
+
+        android:layout_marginBottom="176dp"
+        android:background="@drawable/asil"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <EditText
+        android:id="@+id/kullanici_adi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:autofillHints=""
+        android:ems="10"
+        android:hint="@string/kullanici_adi"
+        android:inputType="textEmailAddress"
+        app:layout_constraintBottom_toTopOf="@+id/sifre"
+        app:layout_constraintEnd_toEndOf="@+id/asil"
+        app:layout_constraintStart_toStartOf="@+id/asil" />
+
+    <EditText
+        android:id="@+id/sifre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:autofillHints=""
+        android:ems="10"
+        android:hint="@string/sifre"
+        android:inputType="textPassword"
+        app:layout_constraintBottom_toBottomOf="@+id/ust"
+        app:layout_constraintEnd_toEndOf="@+id/asil"
+        app:layout_constraintStart_toStartOf="@+id/asil" />
+
+    <ImageView
+        android:id="@+id/bitki"
+        android:layout_width="362dp"
+        android:layout_height="490dp"
+
+        android:layout_marginTop="372dp"
+        android:layout_marginEnd="152dp"
+        android:layout_marginRight="152dp"
+        android:background="@drawable/salatalik"
+        app:layout_constraintEnd_toEndOf="@+id/asil"
+        app:layout_constraintTop_toTopOf="@+id/asil" />
+
+    <ImageView
+        android:id="@+id/elma"
+        android:layout_width="286dp"
+        android:layout_height="290dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="420dp"
+        app:layout_constraintStart_toEndOf="@+id/bitki"
+        app:layout_constraintTop_toTopOf="@+id/asil"
+        app:srcCompat="@drawable/login_elma" />
+
+    <EditText
+        android:id="@+id/sifre_tekrar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:autofillHints=""
+        android:ems="10"
+        android:hint="@string/sifre_tekrar"
+        android:inputType="textPassword"
+        app:layout_constraintEnd_toEndOf="@+id/asil"
+        app:layout_constraintHorizontal_bias="0.504"
+        app:layout_constraintStart_toStartOf="@+id/asil"
+        app:layout_constraintTop_toBottomOf="@+id/ust" />
+
+    <TextView
+        android:id="@+id/yazi"
+        android:layout_width="195dp"
+        android:layout_height="39dp"
+        android:layout_marginBottom="20dp"
+        android:hint="@string/giri_i_in_nce_kay_t"
+        android:textColor="#C62828"
+        android:textSize="14sp"
+        app:layout_constraintBottom_toTopOf="@+id/kayit"
+        app:layout_constraintEnd_toEndOf="@+id/asil"
+        app:layout_constraintStart_toStartOf="@+id/asil" />
+
+    <ImageButton
+        android:id="@+id/kayit"
+        android:layout_width="220dp"
+        android:layout_height="42dp"
+        android:layout_marginBottom="20dp"
+        app:layout_constraintBottom_toTopOf="@+id/giris"
+        app:layout_constraintEnd_toEndOf="@+id/asil"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="@+id/asil"
+        app:srcCompat="@drawable/btn_giris" />
+
+    <ImageButton
+        android:id="@+id/giris"
+        android:layout_width="220dp"
+        android:layout_height="42dp"
+
+        android:layout_marginBottom="52dp"
+        app:layout_constraintBottom_toBottomOf="@+id/asil"
+        app:layout_constraintEnd_toEndOf="@+id/asil"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="@+id/asil"
+        app:srcCompat="@drawable/btn_giris" />
+
+    <TextView
+        android:id="@+id/giris_text"
+        android:layout_width="166dp"
+        android:layout_height="28dp"
+        android:gravity="center_horizontal"
+        android:text="@string/g_r"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="@+id/asil"
+        app:layout_constraintEnd_toEndOf="@+id/giris"
+        app:layout_constraintHorizontal_bias="0.518"
+        app:layout_constraintStart_toStartOf="@+id/giris"
+        app:layout_constraintTop_toTopOf="@+id/giris"
+        app:layout_constraintVertical_bias="0.12"
+        tools:text=" GİRİŞ" />
+
+    <TextView
+        android:id="@+id/kayit_text"
+        android:layout_width="170dp"
+        android:layout_height="25dp"
+        android:layout_marginTop="8dp"
+        android:gravity="center_horizontal"
+        android:text="@string/kayit"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="@+id/kayit"
+        app:layout_constraintStart_toStartOf="@+id/kayit"
+        app:layout_constraintTop_toTopOf="@+id/kayit"
+        tools:text=" KAYIT" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
